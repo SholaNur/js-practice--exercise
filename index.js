@@ -9,3 +9,7 @@ function concat(name){
     var result = name + b;
     return result;
 }
+// Exercise #3
+function boolToString(flag){
+    return flag.toString();
+}
